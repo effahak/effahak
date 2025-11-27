@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Kofi Effah Asare</h1> <h3 align="center">⚡ Tech Enthusiast | Full-Stack Developer | Systems Thinker ⚡</h3>
+<h1 align="center">Hey there 👋, I'm Kofi Effah Asare</h1> <h3 align="center">⚡ Tech Enthusiast | Dev | Systems Thinker ⚡</h3>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+cool+things+with+code;Breaking+%7C+Fixing+%7C+Improving+Systems;Always+learning+something+new" alt="Typing SVG" /> </p>
 🚀 About Me
 > 
